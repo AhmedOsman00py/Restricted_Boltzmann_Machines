@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyterlab
+
+scikit-learn
+torch
+torchvision
+
+flake8
+black
