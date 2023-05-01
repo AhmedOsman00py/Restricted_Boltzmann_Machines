@@ -1,0 +1,10 @@
+data/
+
+.idea
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# files were too large to upload
+save/model/knn.pkl
+save/model/random_forest.pkl
