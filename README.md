@@ -31,4 +31,4 @@ clf = pickle.load(open("save/model/model_name.pkl", "rb"))
 ## License
 
 Copyright © 2023 [Ahmed OSMAN](https://github.com/AhmedOsman00py). <br />
-This project is [MIT License](https://github.com/AhmedOsman00py/Restricted_Boltzmann_Machine/blob/main/LICENSE) licensed.
+This project is [MIT License](https://github.com/AhmedOsman00py/Restricted_Boltzmann_Machines/blob/main/LICENSE) licensed.
