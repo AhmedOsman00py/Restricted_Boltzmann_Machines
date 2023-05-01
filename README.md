@@ -25,7 +25,6 @@ clf = pickle.load(open("save/model/model_name.pkl", "rb"))
 ## References
 
 * Geoffrey Hinton (2010) A Practical Guide to Training Restricted Boltzmann Machines, [UTML TR 2010–003](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
-
 * [https://github.com/odie2630463/Restricted-Boltzmann-Machines-in-pytorch](https://github.com/odie2630463/Restricted-Boltzmann-Machines-in-pytorch)
 
 ## License
