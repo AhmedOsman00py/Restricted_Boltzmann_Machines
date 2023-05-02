@@ -29,5 +29,5 @@ clf = pickle.load(open("save/model/model_name.pkl", "rb"))
 
 ## License
 
-Copyright © 2023 [Ahmed OSMAN](https://github.com/AhmedOsman00py). <br />
+Copyright © 2023 [Ahmed OSMAN](https://github.com/AhmedOsman00py) & [Data Saiyentist](https://github.com/DataSaiyentist). <br />
 This project is [MIT License](https://github.com/AhmedOsman00py/Restricted_Boltzmann_Machines/blob/main/LICENSE) licensed.
